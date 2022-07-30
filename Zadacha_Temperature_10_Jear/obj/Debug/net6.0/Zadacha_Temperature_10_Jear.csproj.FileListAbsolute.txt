@@ -1,0 +1,15 @@
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\bin\Debug\net6.0\Zadacha_Temperature_10_Jear.exe
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\bin\Debug\net6.0\Zadacha_Temperature_10_Jear.deps.json
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\bin\Debug\net6.0\Zadacha_Temperature_10_Jear.runtimeconfig.json
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\bin\Debug\net6.0\Zadacha_Temperature_10_Jear.dll
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\bin\Debug\net6.0\Zadacha_Temperature_10_Jear.pdb
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\obj\Debug\net6.0\Zadacha_Temperature_10_Jear.csproj.AssemblyReference.cache
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\obj\Debug\net6.0\Zadacha_Temperature_10_Jear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\obj\Debug\net6.0\Zadacha_Temperature_10_Jear.AssemblyInfoInputs.cache
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\obj\Debug\net6.0\Zadacha_Temperature_10_Jear.AssemblyInfo.cs
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\obj\Debug\net6.0\Zadacha_Temperature_10_Jear.csproj.CoreCompileInputs.cache
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\obj\Debug\net6.0\Zadacha_Temperature_10_Jear.dll
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\obj\Debug\net6.0\refint\Zadacha_Temperature_10_Jear.dll
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\obj\Debug\net6.0\Zadacha_Temperature_10_Jear.pdb
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\obj\Debug\net6.0\Zadacha_Temperature_10_Jear.genruntimeconfig.cache
+C:\Users\AV4\Downloads\Знакомство с языками программирования (лекции)\Дополнительные задачи\Zadacha_Temperature_10_Jear\Zadacha_Temperature_10_Jear\obj\Debug\net6.0\ref\Zadacha_Temperature_10_Jear.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zadacha_Temperature_10_Jear/1.0.0": {
+        "runtime": {
+          "Zadacha_Temperature_10_Jear.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadacha_Temperature_10_Jear/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
