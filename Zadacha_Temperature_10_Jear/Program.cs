@@ -49,7 +49,7 @@
         Osene();        
     }
     else   
-    if(jear == 2021 && mounth.ToLower() == "март" || jear == 2021 && mounth.ToLower() == "апрель" || jear == 2021 & mounth.ToLower() == "май")
+    if(jear == 2021 && mounth.ToLower() == "март" || jear == 2021 && mounth.ToLower() == "апрель" || jear == 2021 && mounth.ToLower() == "май")
     {
         index = tempindex + 3;
         Vesna();
@@ -61,7 +61,7 @@
         Console.WriteLine($"Минимальная температура зимой за данный промежуток времени составляет {temperature[119]} градуса (-ов)");        
     }
     else   
-    if(jear == 2021 && mounth.ToLower() == "июнь" || jear == 2021 && mounth.ToLower() == "июль" || jear == 2021 & mounth.ToLower() == "август")
+    if(jear == 2021 && mounth.ToLower() == "июнь" || jear == 2021 && mounth.ToLower() == "июль" || jear == 2021 && mounth.ToLower() == "август")
     {
         index = tempindex + 6;
         Leto();
@@ -73,7 +73,7 @@
         Console.WriteLine();
     }
     else   
-    if(jear == 2021 && mounth.ToLower() == "сентябрь" || jear == 2021 && mounth.ToLower() == "октябрь" || jear == 2021 & mounth.ToLower() == "ноябрь")
+    if(jear == 2021 && mounth.ToLower() == "сентябрь" || jear == 2021 && mounth.ToLower() == "октябрь" || jear == 2021 && mounth.ToLower() == "ноябрь")
     {
         index = tempindex + 9;        
         Osene();
